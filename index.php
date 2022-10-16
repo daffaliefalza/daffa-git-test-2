@@ -9,5 +9,8 @@
 <body>
     <h1>Hello world</h1>
     <p>Lorem ipsum dolor sit amet.</p>
+    <ul>
+        <li>Test</li>
+    </ul>
 </body>
 </html>
